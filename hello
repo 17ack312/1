@@ -1,8 +1,1 @@
-<html>
-<head>
-<title>pop up XSS <title>
-</head>
-<body>
 <script>alert('Hello visitor. \n  I am Rajdeep. You may know me.\nAre you schocked ???')</script>
-</body>
-</html>
